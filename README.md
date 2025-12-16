@@ -1,22 +1,16 @@
-# GraphStream -- Swing Viewer
+# Graphstream Swing UI for Java 11.
 
-[![Build Status](https://travis-ci.org/graphstream/gs-ui-swing.svg?branch=master)](https://travis-ci.org/graphstream/gs-ui-swing)
+## This project is a fork of [GraphStream/gs-ui-swing](https://github.com/graphstream/gs-ui-swing), redistributed under CECILL-C license.
+
 
 The GraphStream project is a java library that provides an API to model, analyze and visualize graphs and dynamic graphs.
 
 This module contains a Swing implementation of the GraphStream Viewer.
 
-Check out the Website <http://www.graphstream-project.org/> for more information.
+Check out the original projects website <http://www.graphstream-project.org> for more information.
 
-## UI
-
-This viewer is a rewrite of the old [gs-ui](https://github.com/graphstream/gs-ui) [Scala](http://www.scala-lang.org/)-based renderer. `gs-ui` is now deprecated.
-
-This renderer supports almost all of the CSS properties defined in the [GraphStream CSS Reference](http://graphstream-project.org/doc/Advanced-Concepts/GraphStream-CSS-Reference/), however it is still a work in progress. This viewer is intended only at 2D visualization actually.
-
-We are interested in any suggestion to improve this renderer, and your use cases could be of great help for us in developing this project. If you like and use this project, this could be a good contribution.
-
-## Install UI
+<!-- TODO: update install section -->
+## Install
 
 `gs-ui-swing` is a plugin to the  `gs-core` main project. 
 
