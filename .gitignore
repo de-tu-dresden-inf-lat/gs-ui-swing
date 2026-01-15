@@ -7,3 +7,4 @@ target/
 *.jardesc
 .idea
 gs-ui-swing.iml
+.vscode/
